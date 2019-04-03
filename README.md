@@ -1,1 +1,1 @@
-## zzp-myBlog
+## zzp-Blogs
