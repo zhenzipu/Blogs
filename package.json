@@ -1,0 +1,15 @@
+{
+  "name": "myPress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.10",
+    "webpack-dev-middleware": "3.6.0"
+  }
+}
