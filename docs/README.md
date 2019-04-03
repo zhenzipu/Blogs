@@ -1,14 +1,14 @@
 ---
 home: true
 heroImage: https://vuepress.vuejs.org/hero.png
-actionText: 开始吧 →
+actionText: GO →
 actionLink: /js/
 features:
-- title: 第一部分
-  details: 第一部分内容第一部分内容第一部分内容第一部分内容第一部分内容。
-- title: 第二部分
-  details: 第二部分第二部分第二部分第二部分第二部分第二部分第二部分。
-- title: 第三部分
-  details: 第三部分。
+- title: 学会踏步
+  details: 作为一名前端工程师，js、html、css基础是必备技能。
+- title: 学会走路
+  details: 掌握好基础技术，才能熟练使用各种框架完成项目需求。
+- title: 学会跑步
+  details: 了解框架原理、思想，起步走。
 footer: MIT Licensed | Copyright © 2018-present Evan ZZP
 ---
